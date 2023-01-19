@@ -1,0 +1,15 @@
+#fundo{
+    text-align: center;
+    background-color :rgb(207, 156, 196);
+}
+h1,h3{
+color : aliceblue;
+}
+button{
+  background-color: rgb(122, 220, 245);
+  color : rgb(0, 0, 0);
+  padding: 10px;
+  border-style:ridge;
+  border-radius:20px;
+  border-color: rgb(219, 219, 136);
+}
